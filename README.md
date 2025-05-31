@@ -7,8 +7,3 @@ A modern Android application for performing basic and advanced calculations.
 - History tracking for previous calculations.  
 - User-friendly interface for seamless interaction.  
 
-## Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/Debby16bruce/CALCULATOR.git
-   cd CALCULATOR
